@@ -1,1 +1,106 @@
+<style type="text/css">
+		div{
+			background-color: #ffffff;
 
+		
+		
+		}
+		p:hover{
+			/*width: 450px;*/
+			/*height: 150px;*/
+			/*float: right;*/
+			/*margin-right: 10px;*/
+			clear: right;
+			background-color: maroon;
+
+
+		}
+
+		.p1{
+			background-color: gray;
+			float:right;
+			width: 450px;
+			margin: 10px;
+			padding: 5px;
+			/*float: left;*/
+			height: 150px;
+			border: 1px solid black;
+
+
+		}
+		.p2{
+			background-color: gray;
+			float:right;
+			width: 450px;
+			height: 150px;
+			margin: 10px;
+			padding: 5px;
+			/*clear:right;*/
+			/*float: left;*/
+			border: 1px solid black;
+		}
+		.p3{
+			background-color: gray;
+			width: 450px;
+			height: 150px;
+			margin: 10px;
+			padding: 5px;
+			float: right;
+			border: 1px solid black;
+			/*clear:left;*/
+			/*clear: right;*/
+			/*clear: both;No element is allowed to flat either to the left or to the right*/
+		}
+		h1{ 
+		text-align: center; }
+		section{
+			text-align: center;
+			color: black;
+		}
+	
+
+		
+.header{
+	width: 65px;
+	border: 2px;
+	border-color: black;
+	border-style: solid;
+	margin: 2px;
+	padding: 2px;
+	float: right;
+	background-color: pink;
+
+}
+.header2{
+	width: 65px;
+	border: 2px;
+	border-color: black;
+	border-style: solid;
+	margin: 2px;
+	padding: 2px;
+	float: right;
+	background-color: red;
+
+}
+.header3{
+	width: 65px;
+	border: 2px;
+	border-color: black;
+	border-style: solid;
+	margin: 2px;
+	padding: 2px;
+	float: right;
+	background-color: yellow;}
+
+.header4{
+	width: 55px;
+	border: 2px;
+	border-color: black;
+	border-style: solid;
+	margin: 2px;
+	padding: 2px;
+	float: left;
+	background-color: hotpink;	}
+
+
+	</style>
